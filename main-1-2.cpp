@@ -11,7 +11,7 @@ int main()
     {
         std::cin>>array[i];
     }
-    double a = array_mean;
+    double a = array_mean(array[],n);
     if (a == 0)
     {
         std::cout<<"Wrong input";
