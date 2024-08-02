@@ -10,25 +10,34 @@ void count_digits(int array[4][4])
 			{
 			case 0:
 				a++;
+				break;
 			case 1:
 				b++;
+				break;
 			case 2:
 				c++;
+				break;
 			case 3:
 				d++;
+				break;
 			case 4:
 				e++;
+				break;
 			case 5:
 				f++;
+				break;
 			case 6:
 				g++;
+				break;
 			case 7:
 				h++;
+				break;
 			case 8:
 				l++;
+				break;
 			case 9:
 				m++;
-
+				break;
 			}
 				
 		}
