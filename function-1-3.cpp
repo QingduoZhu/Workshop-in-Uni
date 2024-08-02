@@ -42,5 +42,5 @@ void count_digits(int array[4][4])
 				
 		}
 	}
-	printf("0:%d;1:%d;2:%d;3:%d;4:%d;5:%d;6:%d;7:%d;8:%d;9:%d", a, b, c, d, e, f, g, h, l, m);
+	printf("0:%d;1:%d;2:%d;3:%d;4:%d;5:%d;6:%d;7:%d;8:%d;9:%d;", a, b, c, d, e, f, g, h, l, m);
 }
