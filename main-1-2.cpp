@@ -13,11 +13,11 @@ int main()
 	int a = is_identity(arr);
 	if (a == -1)
 	{
-		std::cout << "it is not identity";
+		return 0;
 	}
 	else
 	{
 		std::cout << "it is identity";
 	}
-	return 0;
+	return 1;
 }
