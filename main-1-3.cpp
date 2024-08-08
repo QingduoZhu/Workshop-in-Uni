@@ -4,7 +4,7 @@ int main()
 {
 	int l;
 	double array[9999];
-	double* array2[9999];
+	double *array2[9999];
 	std::cin >> l;
 	for	(int i = 0; i < l; i++)
 	{
