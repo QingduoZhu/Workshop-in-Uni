@@ -11,9 +11,10 @@ int main()
 		std::cin >> array[i];
 	}
 	*array2 = duplicateArray(array, l);
+	std::cout << "Duplicated:";
 	for (int i = 0; i < l; i++)
 	{
-		std::cout << array[i];
+		std::cout << array[i]<<" ";
 	}
 	return 0;
 }
